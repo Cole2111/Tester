@@ -1,0 +1,374 @@
+{
+  "source": "beta-frame.kra",
+  "canvas": {
+    "width": 3370,
+    "height": 3508,
+    "dpi": 300.0
+  },
+  "assets": {
+    "layer31": {
+      "slot": "frames/beta",
+      "name": "frame",
+      "mode": "accent",
+      "source_layer": "Paint Layer 1",
+      "visible_in_template": true,
+      "bbox": [
+        1106,
+        673,
+        2616,
+        2787
+      ],
+      "files": [
+        "frames/beta/frame.png"
+      ]
+    },
+    "layer33": {
+      "slot": "frames/beta",
+      "name": "parchment",
+      "mode": "flat",
+      "source_layer": "Paint Layer 3",
+      "visible_in_template": true,
+      "bbox": [
+        935,
+        670,
+        2756,
+        2775
+      ],
+      "files": [
+        "frames/beta/parchment.png"
+      ]
+    },
+    "layer32": {
+      "slot": "frames/beta",
+      "name": "edge-runes",
+      "mode": "mask",
+      "source_layer": "Paint Layer 4",
+      "visible_in_template": true,
+      "bbox": [
+        1139,
+        1205,
+        2580,
+        1664
+      ],
+      "files": [
+        "frames/beta/edge-runes.png"
+      ]
+    },
+    "layer8": {
+      "slot": "frames/beta",
+      "name": "speck-a",
+      "mode": "mask",
+      "source_layer": "Paint Layer 6",
+      "visible_in_template": true,
+      "bbox": [
+        2515,
+        2622,
+        2598,
+        2726
+      ],
+      "files": [
+        "frames/beta/speck-a.png"
+      ]
+    },
+    "layer10": {
+      "slot": "frames/beta",
+      "name": "speck-b",
+      "mode": "mask",
+      "source_layer": "Paint Layer 23",
+      "visible_in_template": true,
+      "bbox": [
+        1099,
+        648,
+        2688,
+        2371
+      ],
+      "files": [
+        "frames/beta/speck-b.png"
+      ]
+    },
+    "layer30": {
+      "slot": "frames/beta",
+      "name": "speck-c",
+      "mode": "mask",
+      "source_layer": "Paint Layer 22",
+      "visible_in_template": true,
+      "bbox": null,
+      "files": [
+        "frames/beta/speck-c.png"
+      ]
+    },
+    "layer16": {
+      "slot": "elements",
+      "name": "ice",
+      "mode": "mask",
+      "source_layer": "Paint Layer 16",
+      "visible_in_template": true,
+      "bbox": [
+        1171,
+        729,
+        1333,
+        874
+      ],
+      "files": [
+        "elements/ice.png"
+      ]
+    },
+    "layer15": {
+      "slot": "elements",
+      "name": "unnamed-diamond",
+      "mode": "mask",
+      "source_layer": "Paint Layer 15",
+      "visible_in_template": false,
+      "bbox": [
+        1192,
+        743,
+        1317,
+        868
+      ],
+      "files": [
+        "elements/unnamed-diamond.png"
+      ]
+    },
+    "layer17": {
+      "slot": "elements",
+      "name": "unnamed-slashes",
+      "mode": "mask",
+      "source_layer": "Paint Layer 15",
+      "visible_in_template": false,
+      "bbox": [
+        1166,
+        750,
+        1332,
+        861
+      ],
+      "files": [
+        "elements/unnamed-slashes.png"
+      ]
+    },
+    "layer18": {
+      "slot": "elements",
+      "name": "unnamed-star",
+      "mode": "mask",
+      "source_layer": "Paint Layer 7",
+      "visible_in_template": false,
+      "bbox": [
+        1187,
+        736,
+        1322,
+        865
+      ],
+      "files": [
+        "elements/unnamed-star.png"
+      ]
+    },
+    "layer19": {
+      "slot": "elements",
+      "name": "unnamed-swirl",
+      "mode": "mask",
+      "source_layer": "Paint Layer 15",
+      "visible_in_template": false,
+      "bbox": [
+        1186,
+        753,
+        1322,
+        882
+      ],
+      "files": [
+        "elements/unnamed-swirl.png"
+      ]
+    },
+    "layer21": {
+      "slot": "elements",
+      "name": "unnamed-flame",
+      "mode": "mask",
+      "source_layer": "Paint Layer 16",
+      "visible_in_template": false,
+      "bbox": [
+        1193,
+        744,
+        1325,
+        858
+      ],
+      "files": [
+        "elements/unnamed-flame.png"
+      ]
+    },
+    "layer27": {
+      "slot": "elements",
+      "name": "unnamed-smoke",
+      "mode": "mask",
+      "source_layer": "Paint Layer 15",
+      "visible_in_template": false,
+      "bbox": [
+        1194,
+        752,
+        1325,
+        884
+      ],
+      "files": [
+        "elements/unnamed-smoke.png"
+      ]
+    },
+    "layer23": {
+      "slot": "types",
+      "name": "unnamed-anvil",
+      "mode": "mask",
+      "source_layer": "Paint Layer 18",
+      "visible_in_template": true,
+      "bbox": [
+        1374,
+        781,
+        1434,
+        832
+      ],
+      "files": [
+        "types/unnamed-anvil.png"
+      ]
+    },
+    "layer22": {
+      "slot": "types",
+      "name": "unnamed-figures",
+      "mode": "mask",
+      "source_layer": "Paint Layer 16",
+      "visible_in_template": false,
+      "bbox": [
+        1379,
+        776,
+        1429,
+        827
+      ],
+      "files": [
+        "types/unnamed-figures.png"
+      ]
+    },
+    "layer24": {
+      "slot": "types",
+      "name": "unnamed-fist",
+      "mode": "mask",
+      "source_layer": "Paint Layer 18",
+      "visible_in_template": false,
+      "bbox": [
+        1379,
+        778,
+        1435,
+        831
+      ],
+      "files": [
+        "types/unnamed-fist.png"
+      ]
+    },
+    "layer25": {
+      "slot": "types",
+      "name": "unnamed-swirl",
+      "mode": "mask",
+      "source_layer": "Paint Layer 6",
+      "visible_in_template": false,
+      "bbox": [
+        1385,
+        776,
+        1428,
+        833
+      ],
+      "files": [
+        "types/unnamed-swirl.png"
+      ]
+    },
+    "layer28": {
+      "slot": "types",
+      "name": "unnamed-eye",
+      "mode": "mask",
+      "source_layer": "Paint Layer 21",
+      "visible_in_template": false,
+      "bbox": [
+        1374,
+        776,
+        1435,
+        834
+      ],
+      "files": [
+        "types/unnamed-eye.png"
+      ]
+    },
+    "layer20": {
+      "slot": "symbols",
+      "name": "aec-multiplier",
+      "mode": "mask",
+      "source_layer": "root Merged",
+      "visible_in_template": true,
+      "bbox": [
+        2150,
+        1730,
+        2295,
+        1881
+      ],
+      "files": [
+        "symbols/aec-multiplier.png"
+      ]
+    },
+    "layer14": {
+      "slot": "symbols",
+      "name": "aec-plain",
+      "mode": "mask",
+      "source_layer": "root Merged",
+      "visible_in_template": false,
+      "bbox": [
+        1708,
+        2186,
+        1758,
+        2285
+      ],
+      "files": [
+        "symbols/aec-plain.png"
+      ]
+    },
+    "layer26": {
+      "slot": "parts",
+      "name": "orb",
+      "mode": "flat",
+      "source_layer": "Paint Layer 6",
+      "visible_in_template": false,
+      "bbox": [
+        1517,
+        1891,
+        2212,
+        2661
+      ],
+      "files": [
+        "parts/orb.png"
+      ]
+    },
+    "layer29": {
+      "slot": "parts",
+      "name": "stat-plate",
+      "mode": "flat",
+      "source_layer": "Paint Layer 9",
+      "visible_in_template": false,
+      "bbox": [
+        2068,
+        1803,
+        2581,
+        2061
+      ],
+      "files": [
+        "parts/stat-plate.png"
+      ]
+    },
+    "layer34": {
+      "slot": "parts",
+      "name": "art-placeholder",
+      "mode": "mask",
+      "source_layer": "Paint Layer 24",
+      "visible_in_template": true,
+      "bbox": [
+        1161,
+        758,
+        2569,
+        1880
+      ],
+      "files": [
+        "parts/art-placeholder.png"
+      ]
+    }
+  },
+  "accent": "#00ADFF"
+}
