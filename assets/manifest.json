@@ -57,7 +57,7 @@
     "layer8": {
       "slot": "frames/beta",
       "name": "speck-a",
-      "mode": "mask",
+      "mode": "flat",
       "source_layer": "Paint Layer 6",
       "visible_in_template": true,
       "bbox": [
@@ -72,8 +72,8 @@
     },
     "layer10": {
       "slot": "frames/beta",
-      "name": "speck-b",
-      "mode": "mask",
+      "name": "art-window-fill",
+      "mode": "flat",
       "source_layer": "Paint Layer 23",
       "visible_in_template": true,
       "bbox": [
@@ -83,18 +83,7 @@
         2371
       ],
       "files": [
-        "frames/beta/speck-b.png"
-      ]
-    },
-    "layer30": {
-      "slot": "frames/beta",
-      "name": "speck-c",
-      "mode": "mask",
-      "source_layer": "Paint Layer 22",
-      "visible_in_template": true,
-      "bbox": null,
-      "files": [
-        "frames/beta/speck-c.png"
+        "frames/beta/art-window-fill.png"
       ]
     },
     "layer16": {
@@ -356,7 +345,7 @@
     "layer34": {
       "slot": "parts",
       "name": "art-placeholder",
-      "mode": "mask",
+      "mode": "flat",
       "source_layer": "Paint Layer 24",
       "visible_in_template": true,
       "bbox": [
